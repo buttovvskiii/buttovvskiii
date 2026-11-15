@@ -14,8 +14,27 @@ backend first, frontend when it has to look right, low-level things when i can't
 | | |
 |:--|:--|
 | `2022 — 2028` | medical university |
-| `2024` | found an account takeover vulnerability in MPAY (Azerbaijan) |
+| `2024` | account takeover vulnerability in MPAY (Azerbaijan) |
+| `oct 2026` | vulnerability in CloPOS |
+| `oct 2026` | vulnerability in WhatsApp guest calls (new feature) |
 | `nov 2026 — aug 2027` | [Locus](https://locus-sechenov.ru/) — Engineering of Digital Products and Intelligent Systems |
+
+### 解体 &nbsp;// r3verse
+
+i take things apart to see how they really work. most of the vulnerabilities
+i've found came out of reverse engineering — reading minified bundles,
+watching traffic, and following a protocol until it does something it
+shouldn't. account takeover, auth bypass, logic flaws in flows that were
+supposed to be closed. [ploom-rs](https://github.com/buttovvskiii/ploom-rs)
+is the public, friendly side of the same habit: a whole device protocol
+recovered from an app that shipped no docs.
+
+### 知能 &nbsp;// a1 &amp; llm
+
+i build with language models, not just prompt them. comfortable with tokens
+and context windows, RAG, tool calling and the Model Context Protocol (MCP),
+multi-step agents, skills, hooks and plugins — the moving parts of an agentic
+system and how they fit together.
 
 ### 道具 &nbsp;// st4ck
 
