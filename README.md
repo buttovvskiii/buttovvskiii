@@ -36,6 +36,15 @@ and context windows, RAG, tool calling and the Model Context Protocol (MCP),
 multi-step agents, skills, hooks and plugins — the moving parts of an agentic
 system and how they fit together.
 
+### 言語 &nbsp;// langu4ges
+
+| | | |
+|:--|:--|:--|
+| 🇦🇿 | Azerbaijani | `native · C2` |
+| 🇷🇺 | Russian | `C2` |
+| 🇬🇧 | English | `B1` |
+| 🇩🇪 | German | `A1` |
+
 ### 道具 &nbsp;// st4ck
 
 ```text
